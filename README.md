@@ -4,6 +4,7 @@
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=link:https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 
 
 ### Hi there 👋
