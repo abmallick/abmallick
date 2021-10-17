@@ -1,4 +1,10 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/abmallick)
+
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abmallick)
+
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 
 ### Hi there 👋
 
