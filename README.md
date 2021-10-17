@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&hide=issues&count_private=true)](https://github.com/abmallick)
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true)](https://github.com/abmallick)
 
 ### Hi there 👋
 
