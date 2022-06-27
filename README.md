@@ -1,6 +1,6 @@
 [![Header](https://github.com/abmallick/abmallick/blob/main/assets/header.gif "Header")](https://github.com/abmallick)
 
-[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abmallick)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abmallick)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=abmallick&theme=dark)](https://github.com/abmallick)
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=mac&logoColor=white&color=2bbc8a)
