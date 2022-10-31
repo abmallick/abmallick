@@ -15,4 +15,6 @@
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
-<h1 align="center">Kaushal - <a href="https://kaush.me">@k4u5h4L</a></h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100" height="80" />
+</p>
