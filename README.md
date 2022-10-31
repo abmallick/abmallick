@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/abmallick/abmallick/blob/main/assets/header.gif" width="100" height="80" />
   <br><br>
-
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abmallick)
 </p>
 
 
