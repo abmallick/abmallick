@@ -3,9 +3,10 @@
   <br><br>
 </p>
 <p align="center">
-  <br>
+
+  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abmallick)
-  <br>
+  
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=abmallick&theme=dark)](https://github.com/abmallick)
 
