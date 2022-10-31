@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/abmallick/abmallick/blob/main/assets/header.gif" width="100%" height="40%" />
+  <img src="https://github.com/abmallick/abmallick/blob/main/assets/header.gif" width="80%" height="40%" />
   <br><br>
 </p>
 <p align="center">
