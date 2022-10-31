@@ -3,7 +3,9 @@
   <br><br>
 </p>
 <p align="center">
-
+  <br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abmallick)
+  <br>
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=abmallick&theme=dark)](https://github.com/abmallick)
 
@@ -13,6 +15,7 @@
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+  
 </p>
 
 <p align="center">
