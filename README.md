@@ -1,7 +1,14 @@
 <p align="center">
-[![Header](https://github.com/abmallick/abmallick/blob/main/assets/header.gif "Header")](https://github.com/abmallick)
-<br><br>
+  <img src="https://github.com/abmallick/abmallick/blob/main/assets/header.gif" width="100" height="80" />
+  <br><br>
+
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abmallick)
 </p>
+
+
+[![Header](https://github.com/abmallick/abmallick/blob/main/assets/header.gif "Header")](https://github.com/abmallick)
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abmallick&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/abmallick)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=abmallick&theme=dark)](https://github.com/abmallick)
 
