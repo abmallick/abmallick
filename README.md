@@ -21,3 +21,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100" height="80" />
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/adityasunny1189/count.svg" />
+</p>
